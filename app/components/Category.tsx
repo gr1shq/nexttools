@@ -1,4 +1,4 @@
-const Category = ({category, image, articles}: {category: string, image: any, articles: number} ) => {
+const Category = ({category, image, articles}: {category: string, image: string, articles: number} ) => {
   return (
     <div>
         <a href="#" className="bg-white rounded-xl shadow hover:shadow-md transition p-5 flex flex-col items-start">
