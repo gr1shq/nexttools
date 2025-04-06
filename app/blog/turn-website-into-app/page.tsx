@@ -12,7 +12,7 @@ const page = () => {
   <div className="max-w-3xl mx-auto px-4 py-8">
     <div className="bg-blue-50 border border-blue-100 rounded-xl p-6 mb-8">
       <p className="text-lg">
-        Ever dreamed of having your own <span className="font-bold text-blue-600">mobile app</span>, but don't know how to code? Good news — it's now <span className="font-semibold underline decoration-blue-300">easier than ever</span> to convert your existing website into a mobile app using no-code tools like <span className="font-bold bg-blue-100 px-2 rounded">AppMySite</span>.
+        Ever dreamed of having your own <span className="font-bold text-blue-600">mobile app</span>, but dont know how to code? Good news — it is now <span className="font-semibold underline decoration-blue-300">easier than ever</span> to convert your existing website into a mobile app using no-code tools like <span className="font-bold bg-blue-100 px-2 rounded">AppMySite</span>.
       </p>
     </div>
 
@@ -33,7 +33,7 @@ const page = () => {
       <ol className="list-decimal pl-6 space-y-3">
         <li className="font-medium">Sign up on AppMySite</li>
         <li className="font-medium">Connect your website (WordPress, WooCommerce, or any custom site)</li>
-        <li className="font-medium">Customize your app's design with brand colors and logo</li>
+        <li className="font-medium">Customize your app is design with brand colors and logo</li>
         <li className="font-medium">Preview and publish to the App Store or Google Play</li>
       </ol>
     </div>
@@ -85,7 +85,7 @@ const page = () => {
         Conclusion
       </h2>
       <p className="mb-6">
-        AppMySite makes mobile apps <span className="font-bold">accessible for everyone</span>, eliminating the traditional barriers of cost and technical complexity. With the ability to <span className="bg-blue-100 px-1 rounded font-medium">convert your website in under 30 minutes</span>, there's never been a better time to expand your mobile presence.
+        AppMySite makes mobile apps <span className="font-bold">accessible for everyone</span>, eliminating the traditional barriers of cost and technical complexity. With the ability to <span className="bg-blue-100 px-1 rounded font-medium">convert your website in under 30 minutes</span>, there is never been a better time to expand your mobile presence.
       </p>
     </div>
 

@@ -107,7 +107,7 @@ const page = () => {
       </p>
       <p className="flex items-start">
         <span className="bg-purple-100 text-purple-800 rounded-full w-6 h-6 flex items-center justify-center mr-2 flex-shrink-0">2</span>
-        <span>Use <span className="font-bold text-purple-600">Glide</span> if you're building something from scratch like a productivity tool</span>
+        <span>Use <span className="font-bold text-purple-600">Glide</span> if you are building something from scratch like a productivity tool</span>
       </p>
     </div>
   </div>

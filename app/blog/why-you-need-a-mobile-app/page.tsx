@@ -10,9 +10,9 @@ const page = () => {
         <main className="max-w-3xl mx-auto px-4 py-8">
   {/* Hero Section */}
   <div className="border-l-4 border-blue-500 pl-4 mb-10 mt-[100px]">
-    <h1 className="text-3xl font-bold mb-4">The Mobile App Advantage You're Missing in 2025</h1>
+    <h1 className="text-3xl font-bold mb-4">The Mobile App Advantage You are Missing in 2025</h1>
     <p className="text-lg">
-      You might think your website is enough, but if you're not using mobile apps — you're missing out on <span className="font-bold text-blue-600">huge growth potential</span>.
+      You might think your website is enough, but if you are not using mobile apps — you are missing out on <span className="font-bold text-blue-600">huge growth potential</span>.
     </p>
   </div>
 
@@ -36,7 +36,7 @@ const page = () => {
         <h2 className="text-xl font-semibold">Push Notifications Drive Sales</h2>
       </div>
       <p>
-        Send <span className="font-bold">targeted messages</span> directly to users' lock screens — discounts, updates, and reminders achieve <span className="font-semibold text-green-600">25-30% higher conversion</span> rates than email.
+        Send <span className="font-bold">targeted messages</span> directly to users lock screens — discounts, updates, and reminders achieve <span className="font-semibold text-green-600">25-30% higher conversion</span> rates than email.
       </p>
     </div>
 

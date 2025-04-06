@@ -12,7 +12,7 @@ const Latest = () => {
           <Post category="App Builders" title="AppMySite vs Glide – Which No-Code App Builder Should You Choose?" description="Two of the most popular no-code app builders — AppMySite and Glide.." />
           </a>
           <a href="/blog/why-you-need-a-mobile-app">
-        <Post category="App Builders" title="The Mobile App Advantage You're Missing in 2025" description="You might think your website is enough, but if you're not using mobile apps — you're.." />
+        <Post category="App Builders" title="The Mobile App Advantage You are Missing in 2025" description="You might think your website is enough, but if you are not using mobile apps — you are.." />
         </a>
         </div>
     </div>

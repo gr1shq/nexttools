@@ -33,10 +33,10 @@ const AboutPage = () => {
               <h2 className="text-2xl font-bold mb-4">Our Mission</h2>
               <p className="mb-4">
                 NextTools was born from a simple idea: <span className="font-semibold">technology should be accessible to everyone</span>. 
-                In 2025, we set out to create the web's most comprehensive resource for no-code builders.
+                In 2025, we set out to create the web is most comprehensive resource for no-code builders.
               </p>
               <p>
-                We test and review hundreds of tools so you don't have to. Our team of digital entrepreneurs 
+                We test and review hundreds of tools so you dont have to. Our team of digital entrepreneurs 
                 verifies every recommendation before it reaches you.
               </p>
             </div>
