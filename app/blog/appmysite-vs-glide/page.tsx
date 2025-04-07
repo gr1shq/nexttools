@@ -1,3 +1,4 @@
+import Footer from "@/app/components/Footer"
 import Header from "@/app/components/Header"
 
 const page = () => {
@@ -9,7 +10,7 @@ const page = () => {
         <main className="flex flex-col justify-center min-h-screen w-full xl:px-30 lg:px-20 md:px-15">
         <div className="max-w-3xl mx-auto px-4 py-8">
   <div className="mb-10 text-center">
-    <h1 className="text-3xl font-bold mb-3">
+    <h1 className="text-3xl font-bold mb-3 mt-[100px] md:mt-0">
       <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
         AppMySite vs Glide
       </span>
@@ -122,6 +123,9 @@ const page = () => {
   </div>
 </div>
         </main>
+        <footer>
+          <Footer />
+        </footer>
     </div>
   )
 }
